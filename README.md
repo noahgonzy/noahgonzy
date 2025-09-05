@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @noahgonzy
-- 🌱 I’m a recently Graduated Computer Scientist
+- 🌱 I’m a recently graduated Computer Scientist
