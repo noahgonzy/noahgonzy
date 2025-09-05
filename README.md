@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @noahgonzy
-- 👀 I’m interested in learning how github works
-- 🌱 I’m currently studying computer science
+- 🌱 I’m a recently Graduated Computer Scientist
